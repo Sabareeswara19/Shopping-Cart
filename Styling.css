@@ -1,0 +1,87 @@
+  #inputForm{
+    margin:1rem;
+    color:blue;
+  }
+
+  #inputForm input{
+    border-radius: 10px;
+
+  }
+
+  #inputForm button{
+    width:5rem;
+    height:2rem;
+    background-color: aqua;
+    border:none;
+    border-radius: 15px;
+  }
+  
+  #displayTable{
+    background-color:aqua;
+    border-radius: 10px;
+    padding:5px;
+  }
+
+  tr{
+    width:400px;
+  }
+  
+  /* tr:hover{
+    background-color: indigo;
+  } */
+
+  tr{
+    background-color:rgba(199, 218, 226,0.3)
+  }
+
+  tfoot {
+    text-align: start;
+  } 
+
+  .headContainer{
+    border:2px solid #792365;
+    width:100%;
+    height:3rem;
+    display:flex;
+    justify-content: end;
+    align-items: center;
+  }
+  
+  .headContainer button{
+    height: 2rem;
+    width:10rem;
+    background-color: white;
+    color:green;
+    border:none;
+    border-radius: 0.5rem;
+    
+  }
+  
+  .headContainer button:hover{
+    font-weight: bold;
+    font-size: 1.5rem;
+        color:black;
+  }
+
+  DialogTitle{
+    display:flex;
+
+  }
+    
+
+
+    /* tr,button{
+    color:red;
+  }
+  style = {{color: obj.status==="Taken" ?'green' :'red'} */
+  
+ 
+   
+  /* #positive{
+    color:green;
+  }
+  
+  #negative{
+    color:red;
+  } */
+  
